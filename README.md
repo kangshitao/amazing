@@ -1,2 +1,3 @@
 # amazing
-collect amazing projects
+amazing projects practice
+个人练习
